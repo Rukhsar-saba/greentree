@@ -132,8 +132,9 @@ body {
     padding-bottom: 1%;
   }
 }
-/* ---stop-climate-change design--- */
+/* ---stop-menu design--- */
 
+/* ----Start Main Desgin--- */
 main {
   background-image: url("images/annie-spratt-135307-unsplash.png");
   background-size: cover;
@@ -141,7 +142,7 @@ main {
   max-width: 100%;
   background-repeat: no-repeat;
   height: 40em;
-  background-color: #2a2930;
+  background-color: var(--main-black);
   opacity: 1;
 }
 .content {
@@ -227,6 +228,8 @@ main {
     text-align: center;
   }
 }
+
+/* ----End Main Desgin--- */
 
 /* ---- Start Action Section Design---- */
 
